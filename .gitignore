@@ -1,0 +1,21 @@
+# Video files
+*.mp4
+*.avi
+
+# Image files
+*.eps
+
+# TrackMate data files
+*.xml
+# but don't ignore the tracking parameter input file
+#!10_70_Parameters.xml
+
+## Matlab files
+# data
+#*.mat
+# autosave
+*.asv
+*.m~
+
+## Testing scripts
+#test.py
