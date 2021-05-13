@@ -1,16 +1,16 @@
 Landsberg_Thesis
 ===
 
-Date: 5/5/21
+May 2021
 
 This repository contains all the code necessary for the excecuting the tracking, cleaning, processing, and analysis of raw video footage described in the thesis of Jacob Landsberg:
 LINK
 
-Dependencies: Some of my scripts rely on MATLAB code rely on codes built by others. To generate certain figures, a new user would need to download:
+Dependencies: Some of my scripts rely on MATLAB codes built by others. To generate certain figures, a new user would need to download:
 
-* Circular stats package: LINK
+* Circular stats package: <https://www.mathworks.com/matlabcentral/fileexchange/10676-circular-statistics-toolbox-directional-statistics>
 
-* 2D histogram script: LINK
+* Weighted 2D histogram script: <https://www.mathworks.com/matlabcentral/fileexchange/46012-2d-weighted-histogram>
 
 Folders
 ---

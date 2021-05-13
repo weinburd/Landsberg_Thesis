@@ -6,7 +6,7 @@
 *.eps
 
 # TrackMate data files
-*.xml
+#*.xml
 # but don't ignore the tracking parameter input file
 #!10_70_Parameters.xml
 

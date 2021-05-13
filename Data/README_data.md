@@ -2,7 +2,7 @@
 Landsberg_Thesis/Data
 ===
 
-Date: 5/5/2021
+May 2021
 
 All files are derived from the tracking, cleaning, and processing described by Jacob Landsberg in his 2021 thesis and executed on the 10-second example video clip viewable here:
 <https://youtu.be/IrikqqKJ7Gg>
